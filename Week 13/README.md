@@ -1,8 +1,8 @@
 # DGL 104 – Research and Reflection Journal
  
 **Course:** DGL 104 – Application Development Foundations  
-**Student:** [Your Name]  
-**Semester:** Winter 2025  
+**Student:** Gagandeep singh  
+**Semester:** Winter 2026  
   
 ---
 
